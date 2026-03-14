@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "私生活 (新訳版)",
+  "base_artist": "東京事変",
+  "createdAt": "2026-03-14T14:28:22.711022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私生活 - 新訳版",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_私生活_-_新訳版_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私生活 (新訳版)",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/02_私生活_(新訳版)_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私生活 - 新訳版",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_私生活_-_新訳版_東京事変.txt"
+    }
+  ]
+}
